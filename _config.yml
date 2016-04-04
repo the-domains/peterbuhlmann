@@ -1,6 +1,6 @@
 name: Peterbuhlmann
 favicon: null
-layout_spectrum: 0.12152
+layout_spectrum: 0.58447
 typography_spectrum: 0.49149
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1c1c1a'
-    - '#ffffff'
-    - '#a2a4a3'
-    - '#737675'
-    - '#6d3d66'
+    - '#d99f33'
+    - '#1d1610'
+    - '#c6bebb'
+    - '#9d4b2e'
+    - '#d12921'
   brandStrength: 0.5769191726576537
   lightness: 0.5922557667363435
-  saturation: 0.5098514552228153
+  saturation: 0.5
   rhythmicContrast: 0.6127401504199952
 purpose: []
